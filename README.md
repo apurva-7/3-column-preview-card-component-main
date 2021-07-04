@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 ### Links
 
 - Solution URL: (https://github.com/apurva-7/3-column-preview-card-component-main.git)
